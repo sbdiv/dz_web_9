@@ -1,0 +1,702 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "December 16, 1775",
+    "born_location": "in Steventon Rectory, Hampshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Jane-Austen"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Andr\u00e9 Gide",
+    "born_date": "November 22, 1869",
+    "born_location": "in Paris, France",
+    "description": "",
+    "bio_link": "/author/Andre-Gide"
+  },
+  {
+    "fullname": "Thomas A. Edison",
+    "born_date": "February 11, 1847",
+    "born_location": "in Milan, Ohio, The United States",
+    "description": "",
+    "bio_link": "/author/Thomas-A-Edison"
+  },
+  {
+    "fullname": "Eleanor Roosevelt",
+    "born_date": "October 11, 1884",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Eleanor-Roosevelt"
+  },
+  {
+    "fullname": "Steve Martin",
+    "born_date": "August 14, 1945",
+    "born_location": "in Waco, Texas, The United States",
+    "description": "",
+    "bio_link": "/author/Steve-Martin"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Bob Marley",
+    "born_date": "February 06, 1945",
+    "born_location": "in Nine Mile, Saint Ann, Jamaica",
+    "description": "",
+    "bio_link": "/author/Bob-Marley"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "Douglas Adams",
+    "born_date": "March 11, 1952",
+    "born_location": "in Cambridge, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Douglas-Adams"
+  },
+  {
+    "fullname": "Elie Wiesel",
+    "born_date": "September 30, 1928",
+    "born_location": "in Sighet, Romania",
+    "description": "",
+    "bio_link": "/author/Elie-Wiesel"
+  },
+  {
+    "fullname": "Friedrich Nietzsche",
+    "born_date": "October 15, 1844",
+    "born_location": "in R\u00f6cken bei L\u00fctzen, Prussian Province of Saxony, Germany",
+    "description": "",
+    "bio_link": "/author/Friedrich-Nietzsche"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "Allen Saunders",
+    "born_date": "April 24, 1899",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Allen-Saunders"
+  },
+  {
+    "fullname": "Pablo Neruda",
+    "born_date": "July 12, 1904",
+    "born_location": "in Parral, Chile",
+    "description": "",
+    "bio_link": "/author/Pablo-Neruda"
+  },
+  {
+    "fullname": "Ralph Waldo Emerson",
+    "born_date": "May 25, 1803",
+    "born_location": "in Boston, Massachusetts, The United States",
+    "description": "",
+    "bio_link": "/author/Ralph-Waldo-Emerson"
+  },
+  {
+    "fullname": "Mother Teresa",
+    "born_date": "August 26, 1910",
+    "born_location": "in Skopje, Macedonia, the Former Yugoslav Republic of",
+    "description": "",
+    "bio_link": "/author/Mother-Teresa"
+  },
+  {
+    "fullname": "Garrison Keillor",
+    "born_date": "August 07, 1942",
+    "born_location": "in Anoka, Minnesota, The United States",
+    "description": "",
+    "bio_link": "/author/Garrison-Keillor"
+  },
+  {
+    "fullname": "Jim Henson",
+    "born_date": "September 24, 1936",
+    "born_location": "in Greenville, Mississippi, The United States",
+    "description": "",
+    "bio_link": "/author/Jim-Henson"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Bob Marley",
+    "born_date": "February 06, 1945",
+    "born_location": "in Nine Mile, Saint Ann, Jamaica",
+    "description": "",
+    "bio_link": "/author/Bob-Marley"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Bob Marley",
+    "born_date": "February 06, 1945",
+    "born_location": "in Nine Mile, Saint Ann, Jamaica",
+    "description": "",
+    "bio_link": "/author/Bob-Marley"
+  },
+  {
+    "fullname": "Mother Teresa",
+    "born_date": "August 26, 1910",
+    "born_location": "in Skopje, Macedonia, the Former Yugoslav Republic of",
+    "description": "",
+    "bio_link": "/author/Mother-Teresa"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Charles M. Schulz",
+    "born_date": "November 26, 1922",
+    "born_location": "in Minneapolis, MN, The United States",
+    "description": "",
+    "bio_link": "/author/Charles-M-Schulz"
+  },
+  {
+    "fullname": "William Nicholson",
+    "born_date": "January 12, 1948",
+    "born_location": "in Lewes, Sussex, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/William-Nicholson"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Jorge Luis Borges",
+    "born_date": "August 24, 1899",
+    "born_location": "in Buenos Aires, Argentina",
+    "description": "",
+    "bio_link": "/author/Jorge-Luis-Borges"
+  },
+  {
+    "fullname": "George Eliot",
+    "born_date": "November 22, 1819",
+    "born_location": "in South Farm, Arbury Hall, Nuneaton, Warwickshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/George-Eliot"
+  },
+  {
+    "fullname": "George R.R. Martin",
+    "born_date": "September 20, 1948",
+    "born_location": "in Bayonne, New Jersey, The United States",
+    "description": "",
+    "bio_link": "/author/George-R-R-Martin"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "November 29, 1898",
+    "born_location": "in Belfast, Ireland",
+    "description": "",
+    "bio_link": "/author/C-S-Lewis"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Martin Luther King Jr.",
+    "born_date": "January 15, 1929",
+    "born_location": "in Atlanta, Georgia, The United States",
+    "description": "",
+    "bio_link": "/author/Martin-Luther-King-Jr"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "James Baldwin",
+    "born_date": "August 02, 1924",
+    "born_location": "in Harlem, New York, The United States",
+    "description": "",
+    "bio_link": "/author/James-Baldwin"
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "December 16, 1775",
+    "born_location": "in Steventon Rectory, Hampshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Jane-Austen"
+  },
+  {
+    "fullname": "Eleanor Roosevelt",
+    "born_date": "October 11, 1884",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Eleanor-Roosevelt"
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": "June 01, 1926",
+    "born_location": "in The United States",
+    "description": "",
+    "bio_link": "/author/Marilyn-Monroe"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Haruki Murakami",
+    "born_date": "January 12, 1949",
+    "born_location": "in Kyoto, Japan",
+    "description": "",
+    "bio_link": "/author/Haruki-Murakami"
+  },
+  {
+    "fullname": "Alexandre Dumas fils",
+    "born_date": "July 27, 1824",
+    "born_location": "in Paris, France",
+    "description": "",
+    "bio_link": "/author/Alexandre-Dumas-fils"
+  },
+  {
+    "fullname": "Stephenie Meyer",
+    "born_date": "December 24, 1973",
+    "born_location": "in Connecticut, The United States",
+    "description": "",
+    "bio_link": "/author/Stephenie-Meyer"
+  },
+  {
+    "fullname": "Ernest Hemingway",
+    "born_date": "July 21, 1899",
+    "born_location": "in Oak Park, Illinois, The United States",
+    "description": "",
+    "bio_link": "/author/Ernest-Hemingway"
+  },
+  {
+    "fullname": "Helen Keller",
+    "born_date": "June 27, 1880",
+    "born_location": "in Tuscumbia, Alabama, The United States",
+    "description": "",
+    "bio_link": "/author/Helen-Keller"
+  },
+  {
+    "fullname": "George Bernard Shaw",
+    "born_date": "July 26, 1856",
+    "born_location": "in Dublin, Ireland",
+    "description": "",
+    "bio_link": "/author/George-Bernard-Shaw"
+  },
+  {
+    "fullname": "Charles Bukowski",
+    "born_date": "August 16, 1920",
+    "born_location": "in Andernach, Germany",
+    "description": "",
+    "bio_link": "/author/Charles-Bukowski"
+  },
+  {
+    "fullname": "Suzanne Collins",
+    "born_date": "August 11, 1962",
+    "born_location": "in Hartford, Connecticut, The United States",
+    "description": "",
+    "bio_link": "/author/Suzanne-Collins"
+  },
+  {
+    "fullname": "Suzanne Collins",
+    "born_date": "August 11, 1962",
+    "born_location": "in Hartford, Connecticut, The United States",
+    "description": "",
+    "bio_link": "/author/Suzanne-Collins"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "November 29, 1898",
+    "born_location": "in Belfast, Ireland",
+    "description": "",
+    "bio_link": "/author/C-S-Lewis"
+  },
+  {
+    "fullname": "J.R.R. Tolkien",
+    "born_date": "January 03, 1892",
+    "born_location": "in Bloemfontein, Mangaung, Free State, South Africa",
+    "description": "",
+    "bio_link": "/author/J-R-R-Tolkien"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Ernest Hemingway",
+    "born_date": "July 21, 1899",
+    "born_location": "in Oak Park, Illinois, The United States",
+    "description": "",
+    "bio_link": "/author/Ernest-Hemingway"
+  },
+  {
+    "fullname": "Ralph Waldo Emerson",
+    "born_date": "May 25, 1803",
+    "born_location": "in Boston, Massachusetts, The United States",
+    "description": "",
+    "bio_link": "/author/Ralph-Waldo-Emerson"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "Alfred Tennyson",
+    "born_date": "August 06, 1809",
+    "born_location": "in Somersby, Lincolnshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Alfred-Tennyson"
+  },
+  {
+    "fullname": "Charles Bukowski",
+    "born_date": "August 16, 1920",
+    "born_location": "in Andernach, Germany",
+    "description": "",
+    "bio_link": "/author/Charles-Bukowski"
+  },
+  {
+    "fullname": "Terry Pratchett",
+    "born_date": "April 28, 1948",
+    "born_location": "in Beaconsfield, Buckinghamshire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Terry-Pratchett"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "J.D. Salinger",
+    "born_date": "January 01, 1919",
+    "born_location": "in Manhattan, New York, The United States",
+    "description": "",
+    "bio_link": "/author/J-D-Salinger"
+  },
+  {
+    "fullname": "George Carlin",
+    "born_date": "May 12, 1937",
+    "born_location": "in New York, New York, The United States",
+    "description": "",
+    "bio_link": "/author/George-Carlin"
+  },
+  {
+    "fullname": "John Lennon",
+    "born_date": "October 09, 1940",
+    "born_location": "in Liverpool, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/John-Lennon"
+  },
+  {
+    "fullname": "W.C. Fields",
+    "born_date": "January 29, 1880",
+    "born_location": "in Darby, Pennsylvania, The United States",
+    "description": "",
+    "bio_link": "/author/W-C-Fields"
+  },
+  {
+    "fullname": "Ayn Rand",
+    "born_date": "February 02, 1905",
+    "born_location": "in St. Petersburg, Russian Federation",
+    "description": "",
+    "bio_link": "/author/Ayn-Rand"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "",
+    "bio_link": "/author/Albert-Einstein"
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "December 16, 1775",
+    "born_location": "in Steventon Rectory, Hampshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Jane-Austen"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "December 16, 1775",
+    "born_location": "in Steventon Rectory, Hampshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Jane-Austen"
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": "December 16, 1775",
+    "born_location": "in Steventon Rectory, Hampshire, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/Jane-Austen"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "November 29, 1898",
+    "born_location": "in Belfast, Ireland",
+    "description": "",
+    "bio_link": "/author/C-S-Lewis"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "November 29, 1898",
+    "born_location": "in Belfast, Ireland",
+    "description": "",
+    "bio_link": "/author/C-S-Lewis"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "C.S. Lewis",
+    "born_date": "November 29, 1898",
+    "born_location": "in Belfast, Ireland",
+    "description": "",
+    "bio_link": "/author/C-S-Lewis"
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": "July 31, 1965",
+    "born_location": "in Yate, South Gloucestershire, England, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-K-Rowling"
+  },
+  {
+    "fullname": "Jimi Hendrix",
+    "born_date": "November 27, 1942",
+    "born_location": "in Seattle, Washington, The United States",
+    "description": "",
+    "bio_link": "/author/Jimi-Hendrix"
+  },
+  {
+    "fullname": "J.M. Barrie",
+    "born_date": "May 09, 1860",
+    "born_location": "in Kirriemuir, Angus, Scotland, The United Kingdom",
+    "description": "",
+    "bio_link": "/author/J-M-Barrie"
+  },
+  {
+    "fullname": "E.E. Cummings",
+    "born_date": "October 14, 1894",
+    "born_location": "in Cambridge, Massachusetts, The United States",
+    "description": "",
+    "bio_link": "/author/E-E-Cummings"
+  },
+  {
+    "fullname": "Khaled Hosseini",
+    "born_date": "March 04, 1965",
+    "born_location": "in Kabul, Afghanistan",
+    "description": "",
+    "bio_link": "/author/Khaled-Hosseini"
+  },
+  {
+    "fullname": "Harper Lee",
+    "born_date": "April 28, 1926",
+    "born_location": "in Monroeville, Alabama, The United States",
+    "description": "",
+    "bio_link": "/author/Harper-Lee"
+  },
+  {
+    "fullname": "Madeleine L'Engle",
+    "born_date": "November 29, 1918",
+    "born_location": "in New York City, New York, The United States",
+    "description": "",
+    "bio_link": "/author/Madeleine-LEngle"
+  },
+  {
+    "fullname": "Mark Twain",
+    "born_date": "November 30, 1835",
+    "born_location": "in Florida, Missouri, The United States",
+    "description": "",
+    "bio_link": "/author/Mark-Twain"
+  },
+  {
+    "fullname": "Dr. Seuss",
+    "born_date": "March 02, 1904",
+    "born_location": "in Springfield, MA, The United States",
+    "description": "",
+    "bio_link": "/author/Dr-Seuss"
+  },
+  {
+    "fullname": "George R.R. Martin",
+    "born_date": "September 20, 1948",
+    "born_location": "in Bayonne, New Jersey, The United States",
+    "description": "",
+    "bio_link": "/author/George-R-R-Martin"
+  }
+]
